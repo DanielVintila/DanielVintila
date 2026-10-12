@@ -61,7 +61,7 @@ Alongside my degree I have worked as an IT Administration Intern, where I deploy
  
 ## Connect
  
-- LinkedIn: [Daniel Vintila](www.linkedin.com/in/daniel-vintila)
+- LinkedIn: [Daniel Vintila](https://www.linkedin.com/in/daniel-vintila)
 - Email: danielvintila2005@gmail.com
 Always happy to connect with people working in security, so feel free to get in touch.
  
